@@ -1,0 +1,5 @@
+type: Floor
+name: Space
+variants: 1
+category: production
+buildVisibility: sandboxOnly

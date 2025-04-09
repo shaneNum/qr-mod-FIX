@@ -1,0 +1,5 @@
+type: Floor
+name: Sand
+variants: 1
+category: production
+buildVisibility: sandboxOnly

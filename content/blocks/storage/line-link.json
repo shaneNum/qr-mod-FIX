@@ -1,0 +1,30 @@
+{    
+    "type": "PowerSource",
+    "name": "Line Link",
+    "health": 600,
+    "size": 1,
+    "laserScale": 0.5,
+    "laserLength": 2,
+    "laserRange": 24,
+    "alwaysUnlocked": true,
+    "hasShadow": false,
+    "range": 500,
+    "requirements": [
+     "metaglass/6"
+    ],
+    "category": "effect",
+    "research": {
+    
+    }
+    "placeEffect": {
+    "type": "ParticleEffect",
+    "region": camod-explosion,
+    "lifetime": 25,
+    "sizeFrom": 5,
+    "sizeTo": 120,
+    "strokeFrom": 10,
+    "strokeTo": 0,
+    "colourFrom": ffffffff,
+    "colourTo": ffffff00, 
+  }
+}
