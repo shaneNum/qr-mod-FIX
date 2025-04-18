@@ -1,6 +1,6 @@
 {    
     "type": "LogicDisplay",
-    "name": "HD Display",
+    "name": "Micro HD Display",
     "health": 400,
     "size": 1,
     "rotate": true,
