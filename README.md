@@ -1,5 +1,5 @@
-# QR-Mod
+# The Quantum Realm Mod
 
-Huge content expansion mindustry mod solely made for RPs.
+*A pretty sizeable - nontypical Mindustry mod, dedicated to improve and expand the RP experience.*
 
-Official mod of The Quantum Realm.
+Official mod of the Quantum Realm, and the Chaotican Archives.
