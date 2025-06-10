@@ -1,27 +1,13 @@
 name: camod
 displayName: "Quantum Realm Mod"
-subtitle: "a e i o u | v6"
-description: "A very large content mod for mindustry RPing.
+subtitle: "text | v6"
+description: "A mod solely dedicated for roleplaying and builds.
 
 Version v6
-
-Credits:
-Adrift, Main Dev
-T4SC, Major Contributor
-4.b1, Major Contributor
-Han, Major Contributor
-Molten, Major Contributor
-Dave, Major Contributor
-Xaoc, Original Mod's Developer
-Click, Contributor
-Nameless, Contributor
-Tech, Minor Contributor
-Ultar, Minor Contributor"
 author: "Adrift"
 repo: "GMugXD/qr-mod"
 minGameVersion: 143
 version: 6
 hideBrowser: false
 hidden: true
-dependecies: [
-]
+dependecies: []
