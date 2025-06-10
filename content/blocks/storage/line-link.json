@@ -16,15 +16,4 @@
     "research": {
     
     }
-    "placeEffect": {
-    "type": "ParticleEffect",
-    "region": camod-explosion,
-    "lifetime": 25,
-    "sizeFrom": 5,
-    "sizeTo": 120,
-    "strokeFrom": 10,
-    "strokeTo": 0,
-    "colourFrom": ffffffff,
-    "colourTo": ffffff00, 
-  }
 }

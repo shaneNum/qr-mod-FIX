@@ -1,5 +1,5 @@
-# QR-Mod
+# Quantum Realm Mod
 
-Huge content expansion mindustry mod solely made for RPs.
+A Mindustry mod solely dedicated for roleplaying and builds, filled with way too many stuff. 
 
-Official mod of The Quantum Realm.
+*Made by Adrift, and help from several others*

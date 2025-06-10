@@ -97,12 +97,12 @@ shootType: {
          cone: 0
          clip: 480
          baseLength: 0
-					 sizeFrom: 47.99
-					 sizeTo: 47.99
+					 sizeFrom: 50
+					 sizeTo: 50
          //layer: 1
 				 	 colorFrom: ffe27f
 					 colorTo: ffe27f
-         spin: 5
+         spin: 6
 				 }
      ]
    }
