@@ -1,0 +1,14 @@
+{    
+    "type": "ItemSource",
+    "name": "Invisible Item Source",
+    "health": 600,
+    "size": 1,
+    "rotate": true,
+    "alwaysUnlocked": true,
+    "hasShadow": false,
+    "requirements": [],
+    "category": "distribution",
+    "research": {
+    
+    }
+}

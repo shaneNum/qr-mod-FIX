@@ -1,0 +1,32 @@
+type: CanvasBlock
+name: 8px Screen
+palette: [
+255
+4294967295
+4278190335
+16711935
+65535
+16777215
+4278255615
+4294902015
+1962999807
+4285858047
+16741887
+1246450687
+1852866815
+2560271615
+255
+255
+255
+255
+]
+health: 600
+size: 1
+canvasSize: 32
+alwaysUnlocked: true
+requirements: [
+  beryllium/10
+  silicon/10
+]
+category: logic
+research: {}

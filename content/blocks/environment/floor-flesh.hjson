@@ -1,0 +1,5 @@
+type: Floor
+name: Flesh
+variants: 3
+category: production
+buildVisibility: sandboxOnly
